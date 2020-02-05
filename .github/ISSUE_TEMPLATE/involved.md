@@ -1,7 +1,7 @@
 ---
 name: Getting Involved
 about: Please introduce yourself and tell us what you are interested in, or how you think you would like to help.
-title: 'MY_NAME is in participating'
+title: 'Hi, I am MY_NAME'
 labels: welcome/2021
 assignees: ''
 ---
