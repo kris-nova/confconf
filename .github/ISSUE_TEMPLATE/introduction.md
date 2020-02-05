@@ -1,10 +1,9 @@
 ---
 name: Introduction
 about: Please introduce yourself and tell us what you are interested in, or how you think you would like to help.
-title: 'Getting involved with the event, how can you help? What do you believe in?'
+title: 'MY_NAME is in participating'
 labels: welcome/2021
 assignees: ''
-
 ---
 ### A little about me
 <!--
