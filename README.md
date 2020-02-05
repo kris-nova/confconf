@@ -31,9 +31,9 @@ The event will be one of many events that operate under this same philosophy and
 ## Conference groups
 A group is a set of roles in the event, that all must collaborate together for their group to be successful. 
 
-(Veteran) Speakers
-(Upcoming) Speakers
-(Sponsor) An org that is financing the group in exchange for a presence at the event
+ - (Veteran) Speakers
+ - (Upcoming) Speakers
+ - (Sponsor) An org that is financing the group in exchange for a presence at the event
 
 #### Veteran speakers and technologists 
 
