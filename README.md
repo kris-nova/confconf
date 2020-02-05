@@ -4,7 +4,7 @@ A conference in Reykjavík, Íslands that takes a vendor-neutral approach at tea
 
 Imagine a conference where every sponsor has a fixed price and set of constraints and responsibilities all designed to sponsor a successful speaker, while also changing the life of an upcoming speaker. 
 
-If you are interested in participating in the event please [introduce yourself](https://github.com/kris-nova/confconf/issues/new/choose) and read the [getting involved](https://github.com/kris-nova/confconf/blob/master/README.md#getting-involved) section below.
+If you are interested in participating in the event please [introduce yourself](https://github.com/kris-nova/confconf/issues/new?assignees=&labels=welcome%2F2021&template=involved.md&title=Hi%2C+I+am+MY_NAME) and read the [getting involved](https://github.com/kris-nova/confconf/blob/master/README.md#getting-involved) section below.
 
 
 ## Getting Involved
@@ -66,7 +66,7 @@ The being addressed in the session
 A small description of the session
 A small description of the lesson or the take-away 
 
-The CFP for the first event in Summer 2021 is not open yet, but if you are interested in documenting your interest in fulfilling a role and ultimately joining a group please [introduce yourself](https://github.com/kris-nova/confconf/issues/new/choose).
+The CFP for the first event in Summer 2021 is not open yet, but if you are interested in documenting your interest in fulfilling a role and ultimately joining a group please [introduce yourself](https://github.com/kris-nova/confconf/issues/new?assignees=&labels=welcome%2F2021&template=involved.md&title=Hi%2C+I+am+MY_NAME).
 
 
 
