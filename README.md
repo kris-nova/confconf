@@ -24,7 +24,7 @@ The entire event itself will be managed and governed by an open community, and w
 
 There will be under *no circumstance* an opportunity to sell anything or sponsor a paid offering. Mention of tools, and employment, or an employer’s goals is certainly acceptable, but we will not allow blatant marketing efforts or publicity to revenue-driven entities. 
 
-All takes will be created equal, there will be no keynotes at the event, but a small welcome session to give updates, and set expectations for the event. 
+All sponsorships and groups will be created equal, there will be no keynotes at the event, but a small welcome session to give updates, and set expectations for the event. 
 
 The event will be one of many events that operate under this same philosophy and with these same constraints.
 
