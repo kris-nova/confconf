@@ -10,7 +10,7 @@ assignees: ''
 Tell us about yourself (all fields optional)
 
 Name, or what you prefer to go by?
-Contanct info? Email? Slack? Github? Twitter?
+Contact info? Email? Slack? Github? Twitter?
 Why are you here?
 What is important to you?
 How do you think you can help?
@@ -28,5 +28,5 @@ If you are interested in joining a group, let us know!
 
 - [ ] (Veteran)  speaker or technologist
 - [ ] (Upcoming) speaker or technologist 
-- [ ] (Sponsor)  organiation
+- [ ] (Sponsor)  organization
 - [ ] (Attendee) audience member
