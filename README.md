@@ -1,4 +1,4 @@
-# (working title) ConfConf
+# OpnaConf
 
 A conference in Reykjavík, Íslands that takes a vendor-neutral approach at teaching how to teach about tech. We are targetting in summer 2021 for the first event. 
 
